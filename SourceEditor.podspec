@@ -16,4 +16,6 @@ Pod::Spec.new do |s|
 
   s.dependency 'SavannaKit', '~> 0.9'
 
+  s.swift_versions = ['4.0']
+
 end
